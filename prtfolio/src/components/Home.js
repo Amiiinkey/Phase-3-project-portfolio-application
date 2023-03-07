@@ -1,5 +1,5 @@
 import './home.css'
-import african from './images/african2.jpg'
+import anime from './images/download7.jpg'
 import { useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
 import Loader from 'react-loaders'
@@ -52,7 +52,7 @@ useEffect(() => {
         </div>
         
       </div>
-      <div><img src={african} alt="african" id="img1"/></div>
+      <div><img src={anime} alt="anime" id="img1"/></div>
 
       <Loader type="pacman" />
     </div>

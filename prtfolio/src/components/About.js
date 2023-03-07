@@ -1,6 +1,6 @@
 import React, {useEffect,useState} from "react";
 import Animated from "./Animated";
-import african from './images/african2.jpg'
+import anime from './images/download7.jpg'
 import './about.css'
 
 function About(){
@@ -25,7 +25,7 @@ function About(){
                         idx={15}
                         />
                     </h1>
-                    <p>Thank you for visiting my portfolio! Grace Aloo, a web developer, is who I am.
+                    <p>Thank you for visiting my portfolio! MOHAMED AMIN, a web developer, is who I am.
                         I am dedicated to generating top-notch work and going above and beyond for clients.
                         I have a passion for designing beautiful and practical websites.
                     </p>
@@ -39,7 +39,7 @@ function About(){
                     </p>
                 </div>
             </div>
-            <div><img src={african} alt="african" id="img2"/></div>
+            <div><img src={anime} alt="anime" id="img2"/></div>
         </div>
     )
 }
