@@ -1,75 +1,70 @@
-# Phase-3-project-portfolio-application
-Phase3 project
+# Getting Started with Create React App
 
-## Description
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-A link to the repository for the back-end can be found [here](https://github.com/Amiiinkey/phase3-sinatra-project.git)
+## Available Scripts
 
-Or you can visit this url
+In the project directory, you can run:
 
- - https://github.com/Amiiinkey/phase3-sinatra-project
- 
+### `npm start`
 
-This is a website that has the following features:
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
- - Users should be able to register / login to the platform.
- 
- - A user should be able to view all their listed projects.
- 
- - A user should be able to add a new project to their portfolio.
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
- - A user should be able to update existing project data.
- 
- - A user should be able to delete a project.
- 
- - A user can have a maximum of 10 skills.
- 
- - A user should be able to view their listed skills.
- 
- - A user should be able add, update and delete their skills.
- 
- - In order to use the application, the user must be logged in.
- 
- 
-When you first open the site you will be directed to the login, if you do not have an account you can sign up. Some features will not be available if you don't login, eg you will not be able to view any of the projects or skills.
+### `npm test`
 
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## Installation
-### Requirements
+### `npm run build`
 
-    <li>VS Code</li>
-    <li>node</li>
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-### Running This Application
-Clone from this here [github](git@github.com:Amiiinkey/phase3-sinatra-project.git)
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-to clone follow this steps
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-Clone the repo by using the following:   
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-       git@github.com:Amiiinkey/phase3-sinatra-project.git
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Change directory to the repo folder: 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-        cd Portfolio
+## Learn More
 
-Open it in Visual Studio Code
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-        code .
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-  
+### Code Splitting
 
-You should also run 
-     
-        npm start
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-The link to the website is [here](https://portfolio2-psi-peach.vercel.app/)
+### Analyzing the Bundle Size
 
-## Author
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
- Grace Aloo
+### Making a Progressive Web App
 
-## License
-MIT
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
